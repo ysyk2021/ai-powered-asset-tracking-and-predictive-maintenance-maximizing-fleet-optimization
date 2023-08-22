@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-===============================================================================================================================================
+
 
 Before implementing AI for asset tracking and predictive maintenance, it is important to evaluate the availability and quality of data. This chapter will discuss how to prepare your business for AI implementation by evaluating data availability and quality.
 

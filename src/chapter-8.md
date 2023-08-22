@@ -1,5 +1,4 @@
-Chapter 7: Measuring AI Impact on Fleet Optimization Performance
-================================================================
+
 
 Measuring the impact of AI on fleet optimization performance is essential to ensure that the AI solution is delivering the expected benefits. This chapter will provide an overview of how to assess the effectiveness of AI for fleet optimization, identify areas for improvement and refinement, and continuously adapt and improve your AI approach for asset tracking and predictive maintenance.
 

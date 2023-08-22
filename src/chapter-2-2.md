@@ -1,5 +1,4 @@
-Types of AI used for Asset Tracking and Predictive Maintenance
-=========================================================================================================================================
+
 
 AI-powered asset tracking and predictive maintenance can provide significant benefits for fleet optimization. To understand how AI can be used for asset tracking and predictive maintenance, it is important to understand the different types of AI algorithms that can be utilized.
 
