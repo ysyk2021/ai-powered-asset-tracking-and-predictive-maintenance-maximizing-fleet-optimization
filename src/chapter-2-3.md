@@ -1,5 +1,4 @@
 
-
 AI-powered asset tracking and predictive maintenance can provide significant benefits for fleet optimization. This chapter will discuss the benefits of AI for fleet optimization.
 
 Proactive Maintenance

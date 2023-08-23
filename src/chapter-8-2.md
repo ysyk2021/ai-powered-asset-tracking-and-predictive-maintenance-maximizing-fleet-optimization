@@ -1,5 +1,4 @@
 
-
 Measuring the impact of AI-powered solutions is critical to optimizing fleet operations. In this chapter, we will discuss best practices for measuring the impact of AI on fleet optimization performance and identifying areas for improvement and refinement.
 
 Define Key Performance Indicators (KPIs)

@@ -1,5 +1,4 @@
 
-
 Effective data collection and preparation are critical to the success of AI-powered solutions for asset tracking and predictive maintenance. In this chapter, we will discuss best practices for data collection and preparation.
 
 Define Relevant Data Sources

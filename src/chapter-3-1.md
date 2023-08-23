@@ -1,5 +1,4 @@
 
-
 Before implementing AI for asset tracking and predictive maintenance, it is important to assess your fleet needs and goals. This chapter will discuss how to prepare your business for AI implementation by assessing your fleet needs and goals.
 
 Assessing Your Fleet Needs

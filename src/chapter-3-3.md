@@ -1,5 +1,4 @@
 
-
 Before implementing AI for asset tracking and predictive maintenance, it is important to identify potential implementation challenges. This chapter will discuss how to prepare your business for AI implementation by identifying potential implementation challenges.
 
 Data Collection and Integration
