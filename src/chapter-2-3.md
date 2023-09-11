@@ -1,5 +1,4 @@
-Chapter 3: Benefits of AI for Fleet Optimization
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that Artificial Intelligence (AI) offers for fleet optimization. By leveraging AI-powered solutions, businesses can enhance their asset tracking and predictive maintenance practices, leading to improved efficiency, cost savings, and overall operational excellence.
 

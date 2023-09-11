@@ -1,5 +1,4 @@
-Chapter 3: Best Practices for Data Collection and Preparation
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for data collection and preparation in the context of AI-powered asset tracking and predictive maintenance. Effective data collection and preparation are crucial for accurate analysis, model training, and optimizing fleet operations.
 

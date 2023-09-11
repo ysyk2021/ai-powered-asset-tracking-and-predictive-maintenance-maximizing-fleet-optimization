@@ -1,5 +1,4 @@
-Chapter 3: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of evaluating data availability and quality for AI-powered asset tracking and predictive maintenance in the context of maximizing fleet optimization. Assessing the availability and quality of data is crucial to ensure accurate insights, reliable predictions, and effective decision-making.
 

@@ -1,5 +1,4 @@
-Chapter 1: Definition of AI
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of Artificial Intelligence (AI) and its relevance to asset tracking and predictive maintenance. Understanding the fundamental concepts of AI is essential for businesses looking to leverage AI technologies to optimize their fleet operations and asset management practices.
 

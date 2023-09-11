@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Used for Asset Tracking and Predictive Maintenance
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the different types of Artificial Intelligence (AI) techniques used for asset tracking and predictive maintenance. These AI methods play a crucial role in optimizing fleet operations, improving maintenance practices, and maximizing asset utilization.
 

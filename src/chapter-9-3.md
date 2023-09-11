@@ -1,5 +1,4 @@
-Chapter 10: Legal and Regulatory Considerations for AI Implementation in Asset Tracking and Predictive Maintenance
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal and regulatory considerations associated with the implementation of AI-powered asset tracking and predictive maintenance systems for maximizing fleet optimization. Adhering to applicable laws and regulations is essential to ensure compliance, mitigate risks, and foster responsible use of AI technologies.
 

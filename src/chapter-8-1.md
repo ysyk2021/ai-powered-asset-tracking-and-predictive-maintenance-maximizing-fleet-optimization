@@ -1,5 +1,4 @@
-Chapter 13: Assessing the Effectiveness of AI for Fleet Optimization
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the methods and considerations for assessing the effectiveness of AI-powered asset tracking and predictive maintenance in maximizing fleet optimization. Evaluating the performance and impact of AI systems is crucial to determine their effectiveness, identify areas for improvement, and make informed decisions for optimizing fleet operations.
 

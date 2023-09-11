@@ -1,5 +1,4 @@
-Chapter 9: Developing Governance Frameworks to Ensure Responsible AI Use
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing governance frameworks to ensure responsible AI use in the context of asset tracking and predictive maintenance systems for maximizing fleet optimization. Governance frameworks provide guidelines, policies, and processes that promote ethical and accountable deployment of AI technologies.
 

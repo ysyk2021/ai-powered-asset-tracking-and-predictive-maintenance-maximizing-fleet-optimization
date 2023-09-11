@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Applications for Small Business Asset Tracking Optimization
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of AI applications for small business asset tracking optimization. Leveraging AI technologies in asset tracking offers numerous benefits, including improved operational efficiency, enhanced asset utilization, and cost savings. This chapter aims to introduce small businesses to various AI applications and their potential impact on optimizing asset tracking.
 

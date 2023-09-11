@@ -1,5 +1,4 @@
-Chapter 6: Overview of AI Applications for Small Business Predictive Maintenance Optimization
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various applications of Artificial Intelligence (AI) for small businesses in predictive maintenance optimization. AI-powered solutions offer significant benefits to small businesses by enabling them to maximize asset performance, minimize downtime, and optimize maintenance practices.
 

@@ -1,5 +1,4 @@
-Chapter 1: Assessing Your Fleet Needs and Goals
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of assessing your fleet's needs and goals when implementing AI-powered asset tracking and predictive maintenance systems for maximizing fleet optimization. Understanding your fleet's unique requirements and setting clear goals is essential to tailor the AI solution effectively and achieve the desired outcomes.
 

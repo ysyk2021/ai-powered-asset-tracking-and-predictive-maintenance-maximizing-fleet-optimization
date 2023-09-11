@@ -1,5 +1,4 @@
-Chapter 5: Using AI Algorithms for Data Analysis and Pattern Recognition in Asset Tracking and Predictive Maintenance
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) algorithms can be applied for data analysis and pattern recognition in asset tracking and predictive maintenance. These algorithms play a vital role in extracting valuable insights from data, identifying patterns, and enabling proactive decision-making to optimize fleet operations.
 

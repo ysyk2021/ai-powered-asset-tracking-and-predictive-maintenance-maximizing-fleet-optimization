@@ -1,5 +1,4 @@
-Chapter 2: Importance of Data Collection and Analysis for Fleet Optimization
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical importance of data collection and analysis for fleet optimization in the context of AI-powered asset tracking and predictive maintenance. Effective data collection and analysis provide valuable insights that drive informed decision-making, enhance operational efficiency, and maximize fleet performance.
 

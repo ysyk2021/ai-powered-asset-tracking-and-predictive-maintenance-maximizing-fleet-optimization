@@ -1,5 +1,4 @@
-Chapter 2: Overview of AI Tools and Technologies for Fleet Optimization
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of AI tools and technologies used in fleet optimization, specifically focusing on asset tracking and predictive maintenance. Understanding the various AI-powered tools and technologies available is essential for small businesses looking to maximize fleet optimization. This chapter aims to introduce the key concepts, methodologies, and applications of AI in optimizing fleet operations.
 

@@ -1,5 +1,4 @@
-Chapter 12: Continuously Adapting and Improving Your AI Approach for Asset Tracking and Predictive Maintenance
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of continuously adapting and improving your AI approach for asset tracking and predictive maintenance in order to maximize fleet optimization. As technologies, data, and business needs evolve, organizations must embrace a dynamic mindset to ensure their AI-powered systems remain effective and deliver optimal results.
 
